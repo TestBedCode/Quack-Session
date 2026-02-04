@@ -1,0 +1,216 @@
+{
+  "section_quiz": "Chapter 2.1–2.3 Quiz",
+  "questions": [
+    {
+      "question": "Chemical reactions rearrange atoms, but do not create or destroy them.",
+      "possible_answers": ["True", "False"],
+      "correct_answer": "True"
+    },
+    {
+      "question": "Molybdenum has an atomic number of 42. Several common isotopes exist, with mass numbers from 92–100. Which of the following can be true?",
+      "possible_answers": [
+        "Molybdenum atoms can have between 50 and 58 neutrons.",
+        "Molybdenum atoms can have between 50 and 58 protons.",
+        "Molybdenum atoms can have between 50 and 58 electrons.",
+        "Isotopes of molybdenum have different numbers of electrons."
+      ],
+      "correct_answer": "Molybdenum atoms can have between 50 and 58 neutrons."
+    },
+    {
+      "question": "Hydrophobic substances such as vegetable oil are ____.",
+      "possible_answers": [
+        "nonpolar substances that repel water molecules",
+        "polar substances that repel water molecules",
+        "nonpolar substances that have an attraction for water molecules",
+        "polar substances that have an affinity for water"
+      ],
+      "correct_answer": "nonpolar substances that repel water molecules"
+    },
+    {
+      "question": "The uncharged component in the core of an atom is a(n) ____.",
+      "possible_answers": ["neutron", "proton", "electron", "ion"],
+      "correct_answer": "neutron"
+    },
+    {
+      "question": "From its atomic number of 15, it is possible to predict that the phosphorus atom has ____.",
+      "possible_answers": [
+        "15 electrons",
+        "15 protons",
+        "15 neutrons",
+        "8 electrons in its outermost shell",
+        "15 protons and 15 electrons"
+      ],
+      "correct_answer": "15 protons and 15 electrons"
+    },
+    {
+      "question": "When the atoms involved in a covalent bond have the same electronegativity, what type of bond results?",
+      "possible_answers": [
+        "a nonpolar covalent bond",
+        "a polar covalent bond",
+        "a hydrogen bond",
+        "an ionic bond"
+      ],
+      "correct_answer": "a nonpolar covalent bond"
+    },
+    {
+      "question": "Atoms have no electric charge because they have ____.",
+      "possible_answers": [
+        "an equal number of protons and electrons",
+        "uncharged neutrons in their nuclei",
+        "an equal number of protons and neutrons",
+        "an equal number of charged and uncharged subatomic particles"
+      ],
+      "correct_answer": "an equal number of protons and electrons"
+    },
+    {
+      "question": "Electrons are found ____.",
+      "possible_answers": [
+        "in one or more shells that surround the atom's nucleus",
+        "in the nucleus of an atom",
+        "only in complex molecules",
+        "in both the nucleus and inner shell of an atom"
+      ],
+      "correct_answer": "in one or more shells that surround the atom's nucleus"
+    },
+    {
+      "question": "An atom is in its most stable state when all its electron shells are filled to capacity.",
+      "possible_answers": ["True", "False"],
+      "correct_answer": "True"
+    },
+    {
+      "question": "Oil and water do not mix together well because ____.",
+      "possible_answers": [
+        "water is polar and oil is nonpolar",
+        "water has hydrogen bonds and oil is polar",
+        "only identical molecules of the same chemical can mix together easily",
+        "water and oil are covalently bonded together"
+      ],
+      "correct_answer": "water is polar and oil is nonpolar"
+    },
+    {
+      "question": "The sum of an atom's protons and neutrons is its ____.",
+      "possible_answers": ["mass number", "atomic number", "valence", "charge"],
+      "correct_answer": "mass number"
+    },
+    {
+      "question": "An atom that becomes charged due to the gain or loss of an electron is called a(n) ____.",
+      "possible_answers": ["ion", "isotope", "molecule", "compound"],
+      "correct_answer": "ion"
+    },
+    {
+      "question": "Ionic bonds ____.",
+      "possible_answers": [
+        "form between atoms that develop opposite charges",
+        "result from the sharing of electrons between atoms",
+        "result from the natural repulsion that develops between protons",
+        "form only between polar molecules"
+      ],
+      "correct_answer": "form between atoms that develop opposite charges"
+    },
+    {
+      "question": "Chemists often represent the structure of atoms using p, n, and e to indicate numbers of protons, neutrons, and electrons; which atom would have an atomic mass number of 30?",
+      "possible_answers": [
+        "15 p, 15 n, 15 e",
+        "10 p, 10 n, 10 e",
+        "15 p, 0 n, 15 e",
+        "0 p, 15 n, 15 e"
+      ],
+      "correct_answer": "15 p, 15 n, 15 e"
+    },
+    {
+      "question": "Carbon-14 has the same ____.",
+      "possible_answers": [
+        "number of protons but more neutrons than carbon-12",
+        "atomic mass as both carbon-12 and carbon-13",
+        "atomic number and atomic mass as carbon-12",
+        "atomic number and thus number of neutrons as carbon-13"
+      ],
+      "correct_answer": "number of protons but more neutrons than carbon-12"
+    },
+    {
+      "question": "Which statement is true of all atoms that are anions?",
+      "possible_answers": [
+        "The atom has more electrons than protons.",
+        "The atom has more protons than electrons.",
+        "The atom has fewer protons than a neutral atom of the same element.",
+        "The atom has more neutrons than protons."
+      ],
+      "correct_answer": "The atom has more electrons than protons."
+    },
+    {
+      "question": "You are given an unknown substance and asked to determine whether it is polar or nonpolar. The easiest way to do this would be to ____.",
+      "possible_answers": [
+        "determine whether the compound dissolves in water",
+        "determine whether the compound is held together by hydrogen bonds",
+        "determine the number of electrons in the compound's outer shell",
+        "mix the compound with an ionic substance to see whether its bonds can withstand the pressure"
+      ],
+      "correct_answer": "determine whether the compound dissolves in water"
+    },
+    {
+      "question": "Bonds between two atoms that are equally electronegative are ____.",
+      "possible_answers": [
+        "nonpolar covalent bonds",
+        "polar covalent bonds",
+        "ionic bonds",
+        "hydrogen bonds"
+      ],
+      "correct_answer": "nonpolar covalent bonds"
+    },
+    {
+      "question": "The left-to-right order of elements in the periodic table is based on their ____.",
+      "possible_answers": ["atomic number", "atomic mass", "electric charge", "number of neutrons"],
+      "correct_answer": "atomic number"
+    },
+    {
+      "question": "About 25 of the 92 natural elements are known to be essential to life. Which four make up approximately 96% of living matter?",
+      "possible_answers": [
+        "carbon, hydrogen, nitrogen, oxygen",
+        "carbon, oxygen, phosphorus, hydrogen",
+        "oxygen, hydrogen, calcium, nitrogen",
+        "carbon, sodium, hydrogen, nitrogen"
+      ],
+      "correct_answer": "carbon, hydrogen, nitrogen, oxygen"
+    },
+    {
+      "question": "A proton has ____ charge.",
+      "possible_answers": ["a positive", "a negative", "a neutral", "no"],
+      "correct_answer": "a positive"
+    },
+    {
+      "question": "How many electrons are involved in a triple covalent bond?",
+      "possible_answers": ["6", "3", "9", "12"],
+      "correct_answer": "6"
+    },
+    {
+      "question": "To increase the rate of a reaction you could ____.",
+      "possible_answers": [
+        "add more reactants",
+        "remove a catalyst",
+        "add more products",
+        "decrease the temperature"
+      ],
+      "correct_answer": "add more reactants"
+    },
+    {
+      "question": "Covalent bonds are formed by ____.",
+      "possible_answers": [
+        "the sharing of valence electrons",
+        "the transfer of valence electrons from one atom to another",
+        "the sharing of electrons in the innermost shell",
+        "the conversion of ionic bonds to covalent bonds"
+      ],
+      "correct_answer": "the sharing of valence electrons"
+    },
+    {
+      "question": "A covalent chemical bond is one in which ____.",
+      "possible_answers": [
+        "outer-shell electrons of two atoms are shared so as to satisfactorily fill their respective orbitals",
+        "outer-shell electrons of one atom are transferred to fill the inner shell of another atom",
+        "electrons are removed from one atom and transferred to another atom so that the two atoms become oppositely charged",
+        "protons and neutrons are shared by two atoms"
+      ],
+      "correct_answer": "outer-shell electrons of two atoms are shared so as to satisfactorily fill their respective orbitals"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "section_quiz": "Chapter 3.1 Quiz",
+  "questions": [
+    {
+      "question": "Which of the groups is an acidic functional group that can dissociate and release H+ into a solution?",
+      "image": "group1.jpg",
+      "possible_answers": ["A: –OH", "B: –COOH", "C: –NH2", "D: –SH"],
+      "correct_answer": "B: –COOH"
+    },
+    {
+      "question": "Which chemical group is most likely to be responsible for an organic molecule behaving as a base?",
+      "possible_answers": ["phosphate", "carbonyl", "hydroxyl", "amino"],
+      "correct_answer": "amino"
+    },
+    {
+      "question": "Which molecule shown can contribute negative charge when positioned in a chain?",
+      "image": "group2.jpg",
+      "possible_answers": ["A", "B", "C", "D"],
+      "correct_answer": "D"
+    },
+    {
+      "question": "The figure shows the structures of glucose and fructose. These two molecules differ in the ____.",
+      "image": "carbs.jpg",
+      "possible_answers": [
+        "number of carbon, hydrogen, and oxygen atoms",
+        "number of oxygen atoms joined to carbon atoms by double covalent bonds",
+        "arrangement of carbon, hydrogen, and oxygen atoms",
+        "types of carbon, hydrogen, and oxygen atoms"
+      ],
+      "correct_answer": "arrangement of carbon, hydrogen, and oxygen atoms"
+    },
+    {
+      "question": "Thalidomide and L-dopa are examples of pharmaceutical drugs that occur as enantiomers, or molecules that ____.",
+      "image": "isomers4.jpg",
+      "possible_answers": [
+        "are cis-trans isomers",
+        "are mirror images of one another",
+        "have identical three-dimensional shapes",
+        "are mirror images of one another and have the same biological activity"
+      ],
+      "correct_answer": "are mirror images of one another"
+    },
+    {
+      "question": "Why are hydrocarbons insoluble in water?",
+      "possible_answers": [
+        "They exhibit considerable molecular complexity and diversity.",
+        "They are less dense than water.",
+        "The majority of their bonds are nonpolar covalent carbon-to-hydrogen linkages.",
+        "The majority of their bonds are polar covalent carbon-to-hydrogen linkages."
+      ],
+      "correct_answer": "The majority of their bonds are nonpolar covalent carbon-to-hydrogen linkages."
+    },
+    {
+      "question": "The complexity and variety of organic molecules is due to ____.",
+      "possible_answers": [
+        "their interaction with water",
+        "the chemical versatility of carbon atoms",
+        "the diverse bonding patterns of nitrogen",
+        "the variety of rare elements in organic molecules"
+      ],
+      "correct_answer": "the chemical versatility of carbon atoms"
+    },
+    {
+      "question": "Which molecule shown is a thiol?",
+      "image": "group7.jpg",
+      "possible_answers": ["A", "B", "C", "D"],
+      "correct_answer": "B"
+    },
+    {
+      "question": "The two molecules shown in the figure are best described as ____.",
+      "image": "isomers3.jpg",
+      "possible_answers": ["cis-trans isomers", "structural isomers", "radioactive isotopes", "enantiomers"],
+      "correct_answer": "cis-trans isomers"
+    },
+    {
+      "question": "Which of the functional groups shown is present in ethanol but not in ethane?",
+      "image": "group1.jpg",
+      "possible_answers": ["A: –OH", "B: –COOH", "C: –NH2", "D: –SH"],
+      "correct_answer": "A: –OH"
+    },
+    {
+      "question": "Which of the functional groups shown helps stabilize proteins by forming covalent cross-links within or between protein molecules?",
+      "image": "group1.jpg",
+      "possible_answers": ["A: –OH", "B: –COOH", "C: –NH2", "D: –SH"],
+      "correct_answer": "D: –SH"
+    },
+    {
+      "question": "Which molecule shown contains a functional group that is a part of the molecule known as the \"energy currency of living organisms\"?",
+      "image": "group2.jpg",
+      "possible_answers": ["A", "B", "C", "D"],
+      "correct_answer": "D"
+    },
+    {
+      "question": "The two molecules shown in the figures are best described as ____.",
+      "image": "isomers.jpg",
+      "possible_answers": ["cis-trans isomers", "chain length isomers", "enantiomers", "structural isomers"],
+      "correct_answer": "structural isomers"
+    },
+    {
+      "question": "Which molecule has at least one carbon atom attached to three different chemical groups?",
+      "image": "group4.jpg",
+      "possible_answers": ["A", "B", "C", "D", "A and B"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "The figure shows the structures of glucose and fructose. These two molecules are ____.",
+      "image": "carbs.jpg",
+      "possible_answers": ["structural isomers", "isotopes", "enantiomers", "cis-trans isomers"],
+      "correct_answer": "structural isomers"
+    }
+  ]
+}

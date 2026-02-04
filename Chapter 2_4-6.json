@@ -1,0 +1,111 @@
+{
+  "section_quiz": "Chapter 2.4–2.6 Quiz",
+  "questions": [
+    {
+      "question": "A solution with a pH of 2 has how many more hydrogen ions in it than a solution with a pH of 4?",
+      "possible_answers": ["1000 times more", "100 times more", "10 times more", "5 times more"],
+      "correct_answer": "100 times more"
+    },
+    {
+      "question": "In a single molecule of water, two hydrogen atoms are bonded to a single oxygen atom by ____.",
+      "possible_answers": ["polar covalent bonds", "hydrogen bonds", "nonpolar covalent bonds", "ionic bonds"],
+      "correct_answer": "polar covalent bonds"
+    },
+    {
+      "question": "Of the following pH values, which indicates the most basic pH?",
+      "possible_answers": ["3", "7", "8", "10"],
+      "correct_answer": "10"
+    },
+    {
+      "question": "Consider two solutions: solution X has a pH of 4; solution Y has a pH of 7. From this information, we can reasonably conclude that ____.",
+      "possible_answers": [
+        "the concentration of hydrogen ions in solution X is 1000 times as great as the concentration of hydrogen ions in solution Y",
+        "the concentration of hydrogen ions in solution Y is 1000 times as great as the concentration of hydrogen ions in solution X",
+        "solution Y has no free hydrogen ions (H+)",
+        "the concentration of hydrogen ions in solution X is 3 times as great as the concentration of hydrogen ions in solution Y"
+      ],
+      "correct_answer": "the concentration of hydrogen ions in solution X is 1000 times as great as the concentration of hydrogen ions in solution Y"
+    },
+    {
+      "question": "The atoms in water molecules are held together by hydrogen bonds.",
+      "possible_answers": ["True", "False"],
+      "correct_answer": "False"
+    },
+    {
+      "question": "Based on your knowledge of the polarity of water molecules, the solute molecule depicted is most likely ____.",
+      "image": "chapter 3 picture.jpg",
+      "possible_answers": ["positively charged", "negatively charged", "without charge", "nonpolar"],
+      "correct_answer": "without charge"
+    },
+    {
+      "question": "A chemist adds a chemical to pure water and there is a 100-fold increase in the concentration of hydrogen ions. What is the best approximation of the new pH value?",
+      "possible_answers": ["7", "9", "5", "0"],
+      "correct_answer": "5"
+    },
+    {
+      "question": "Cohesion, surface tension, and adhesion are the properties of water molecules that ____.",
+      "possible_answers": [
+        "are a result of hydrogen bonding",
+        "are a result of polar covalent bonding",
+        "increase when temperature increases",
+        "increase with pH increases"
+      ],
+      "correct_answer": "are a result of hydrogen bonding"
+    },
+    {
+      "question": "The cities of Portland, Oregon, and Minneapolis, Minnesota, are at about the same latitude, but Minneapolis has much hotter summers and much colder winters than Portland. Why?",
+      "possible_answers": [
+        "The ocean near Portland moderates the temperature.",
+        "Fresh water is more likely to freeze than salt water.",
+        "Minneapolis is much windier, due to its location in the middle of North America.",
+        "They are not at the same exact latitude."
+      ],
+      "correct_answer": "The ocean near Portland moderates the temperature."
+    },
+    {
+      "question": "Low humidity in the atmosphere on a hot day ____.",
+      "possible_answers": [
+        "helps in cooling because water evaporates from the skin faster",
+        "does not help in cooling because water evaporates from the skin faster",
+        "helps in cooling because skin absorbs water from the atmosphere",
+        "does not help in cooling because skin absorbs water from the atmosphere"
+      ],
+      "correct_answer": "helps in cooling because water evaporates from the skin faster"
+    },
+    {
+      "question": "The partial negative charge at one end of a water molecule is attracted to the partial positive charge of another water molecule. What is this attraction called?",
+      "possible_answers": ["a hydrogen bond", "a covalent bond", "an ionic bond", "a van der Waals interaction"],
+      "correct_answer": "a hydrogen bond"
+    },
+    {
+      "question": "Water molecules can form hydrogen bonds with ____.",
+      "possible_answers": ["compounds that have polar covalent bonds", "chloride ions", "oils", "oxygen gas molecules"],
+      "correct_answer": "compounds that have polar covalent bonds"
+    },
+    {
+      "question": "A solution with a pH of 7 is neither acidic nor basic.",
+      "possible_answers": ["True", "False"],
+      "correct_answer": "True"
+    },
+    {
+      "question": "If the cytoplasm of a cell is at pH 7, and the mitochondrial matrix is at pH 8, then the concentration of H+ ions ____.",
+      "possible_answers": [
+        "is 10 times higher in the cytoplasm than in the mitochondrial matrix",
+        "is 10 times higher in the mitochondrial matrix than in the cytoplasm",
+        "in the cytoplasm is 7/8 the concentration in the mitochondrial matrix",
+        "in the cytoplasm is 8/7 the concentration in the mitochondrial matrix"
+      ],
+      "correct_answer": "is 10 times higher in the cytoplasm than in the mitochondrial matrix"
+    },
+    {
+      "question": "The high heat of vaporization of water helps you feel cooler when you sweat because the transition of water from a liquid to a gas requires a ____ of energy to break hydrogen bonds. The energy is ____ from heat produced by your body.",
+      "possible_answers": [
+        "input; obtained",
+        "release; released",
+        "input; released",
+        "release; obtained"
+      ],
+      "correct_answer": "input; obtained"
+    }
+  ]
+}

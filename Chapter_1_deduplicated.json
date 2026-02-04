@@ -1,0 +1,104 @@
+{
+  "section_quiz": "Chapter 1 Quiz",
+  "questions": [
+    {
+      "question": "A group of interbreeding organisms whose offspring are themselves fertile is defined as a ____.",
+      "possible_answers": ["species", "biome", "unit", "web"],
+      "correct_answer": "species"
+    },
+    {
+      "question": "Biology is the scientific study of ____.",
+      "possible_answers": ["life", "cells", "organisms", "energy"],
+      "correct_answer": "life"
+    },
+    {
+      "question": "All living organisms sense their environment and respond to it.",
+      "possible_answers": ["True", "False"],
+      "correct_answer": "True"
+    },
+    {
+      "question": "Which statement supports the theory that all living organisms descended from one common ancestor?",
+      "possible_answers": [
+        "Offspring resemble their parents.",
+        "Bacteria have a cell wall outside the plasma membrane.",
+        "Some organisms are consumers, whereas others are producers.",
+        "All living organisms use DNA as their hereditary material."
+      ],
+      "correct_answer": "All living organisms use DNA as their hereditary material."
+    },
+    {
+      "question": "Which statement represents the biological characteristics that kittens, oak trees, swans, earthworms, elephants, and crickets have in common?",
+      "possible_answers": [
+        "DNA nucleotides form the basis of inherited life, with cells that are formed from other cells.",
+        "RNA nucleotides form the basis of inherited life, with cells that are formed spontaneously from the environment.",
+        "RNA nucleotides form the basis of all inherited life, with cells that are formed from other cells.",
+        "DNA nucleotides form the basis of inherited life, with cells that are formed spontaneously from the environment."
+      ],
+      "correct_answer": "DNA nucleotides form the basis of inherited life, with cells that are formed from other cells."
+    },
+    {
+      "question": "The main source of energy for producers in an ecosystem is ____.",
+      "possible_answers": ["light energy", "chemical energy", "thermal energy", "ATP"],
+      "correct_answer": "light energy"
+    },
+    {
+      "question": "A biologist studying how pollution affects algal growth and snail populations in a portion of Lake Erie is studying which level of organization?",
+      "possible_answers": ["ecosystem", "population", "community", "cells"],
+      "correct_answer": "ecosystem"
+    },
+    {
+      "question": "A localized group of organisms that belong to the same species is called a ____.",
+      "possible_answers": ["population", "community", "ecosystem", "family", "biosystem"],
+      "correct_answer": "population"
+    },
+    {
+      "question": "New cells are created when existing cells divide; immediately after division, every cell of every known living organism will contain DNA.",
+      "possible_answers": ["True", "False"],
+      "correct_answer": "True"
+    },
+    {
+      "question": "A molecule is constructed when two or more atoms become bonded to each other.",
+      "possible_answers": ["True", "False"],
+      "correct_answer": "True"
+    },
+    {
+      "question": "Groups of different species that live and interact in a given area are referred to as a ____.",
+      "possible_answers": ["community", "population", "habitat", "biosphere"],
+      "correct_answer": "community"
+    },
+    {
+      "question": "All the organisms on your campus make up a ____.",
+      "possible_answers": ["a community", "a population", "an ecosystem", "a taxonomic domain"],
+      "correct_answer": "a community"
+    },
+    {
+      "question": "Which of the following lists the terms from simplest to most complex?",
+      "possible_answers": [
+        "cells, tissues, organs, organ systems, organism",
+        "tissues, organs, organ systems, organism, cells",
+        "organs, organ systems, organism, cells, tissues"
+      ],
+      "correct_answer": "cells, tissues, organs, organ systems, organism"
+    },
+    {
+      "question": "Which of the following terms best describes the North American rocky intertidal zone shown in the photograph?",
+      "image": "intertidal zone.jpg",
+      "possible_answers": [
+        "a biome",
+        "a community",
+        "a population",
+        "an ecosystem"
+      ],
+      "correct_answer": "an ecosystem"
+    },
+    {
+      "question": "Which of the following correctly represents the biological hierarchy of a multicellular organism?",
+      "possible_answers": [
+        "cells → tissues → organs → organ systems → individual",
+        "organ systems → organs → tissues → cells → individual",
+        "tissues → organs → organ systems → cells → individual"
+      ],
+      "correct_answer": "cells → tissues → organs → organ systems → individual"
+    }
+  ]
+}

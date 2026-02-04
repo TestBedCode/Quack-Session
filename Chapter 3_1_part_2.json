@@ -1,0 +1,175 @@
+{
+  "section_quiz": "Quiz 4 - Section 3.1",
+  "questions": [
+    {
+      "question": "Which molecule shown has a carbonyl functional group in the form of an aldehyde?",
+      "image": "group4.jpg",
+      "possible_answers": ["A", "B", "C", "D"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "In the cis configuration, the methyl groups are placed ____.",
+      "possible_answers": [
+        "to the left of the double bond",
+        "on opposite sides of the double bond",
+        "on the same side of the double bond",
+        "in between the double bonds"
+      ],
+      "correct_answer": "on the same side of the double bond"
+    },
+    {
+      "question": "Which molecule shown contains a carboxyl group?",
+      "image": "group4.jpg",
+      "possible_answers": ["A", "B", "C", "D"],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which molecule shown above can contribute negative charge when positioned in a chain?",
+      "image": "GROUP5.jpg",
+      "possible_answers": ["A", "C", "D"],
+      "correct_answer": "D"
+    },
+    {
+      "question": "Why are hydrocarbons insoluble in water?",
+      "possible_answers": [
+        "The majority of their bonds are nonpolar covalent carbon-to-hydrogen linkages.",
+        "They are less dense than water.",
+        "The majority of their bonds are polar covalent carbon-to-hydrogen linkages.",
+        "They exhibit considerable molecular complexity and diversity."
+      ],
+      "correct_answer": "The majority of their bonds are nonpolar covalent carbon-to-hydrogen linkages."
+    },
+    {
+      "question": "The element present in all organic molecules is ________.",
+      "possible_answers": ["hydrogen", "oxygen", "carbon", "nitrogen"],
+      "correct_answer": "carbon"
+    },
+    {
+      "question": "Choose the term that correctly describes the relationship between these two sugar molecules.",
+      "image": "isomer5.jpg",
+      "possible_answers": ["enantiomers", "cis-trans isomers", "structural isomers", "isotopes"],
+      "correct_answer": "structural isomers"
+    },
+    {
+      "question": "Which of the following statements correctly describes cis-trans isomers?",
+      "possible_answers": [
+        "They have the same chemical properties.",
+        "They have an asymmetric carbon that makes them mirror images.",
+        "They have different molecular formulas.",
+        "They have variations in arrangement around a double bond."
+      ],
+      "correct_answer": "They have variations in arrangement around a double bond."
+    },
+    {
+      "question": "Which molecule shown above contains a functional group that is a part of the molecule known as the \"energy currency of living organisms\"?",
+      "image": "GROUP5.jpg",
+      "possible_answers": ["A", "B", "C", "D"],
+      "correct_answer": "D"
+    },
+    {
+      "question": "The two molecules shown in the figure are best described as ________.",
+      "image": "isomers3.jpg",
+      "possible_answers": ["radioactive isotopes", "cis-trans isomers", "enantiomers", "structural isomers"],
+      "correct_answer": "cis-trans isomers"
+    },
+    {
+      "question": "Thalidomide and L-dopa are examples of pharmaceutical drugs that occur as enantiomers, or molecules that ________.",
+      "image": "isomers4.jpg",
+      "possible_answers": [
+        "are cis-trans isomers",
+        "are mirror images of one another",
+        "have identical three-dimensional shapes",
+        "are mirror images of one another and have the same biological activity"
+      ],
+      "correct_answer": "are mirror images of one another"
+    },
+    {
+      "question": "Organic chemistry is currently defined as ____.",
+      "possible_answers": [
+        "the study of hydrocarbons",
+        "the study of carbon compounds",
+        "the study of compounds made only by living cells",
+        "the study of natural (as opposed to synthetic) compounds"
+      ],
+      "correct_answer": "the study of carbon compounds"
+    },
+    {
+      "question": "Research indicates that ibuprofen is a mixture of two enantiomers; that is, molecules that ________.",
+      "possible_answers": [
+        "differ in the arrangement of atoms around their double bonds",
+        "are mirror images of each other",
+        "have identical chemical formulas but differ in the branching of their carbon skeletons",
+        "differ in the location of their double bonds"
+      ],
+      "correct_answer": "are mirror images of each other"
+    },
+    {
+      "question": "Which of the functional groups shown is present in ethanol but not in ethane?",
+      "image": "group2.jpg",
+      "possible_answers": ["A", "B", "C", "D"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which of the groups is an acidic functional group that can dissociate and release H+ into a solution?",
+      "image": "group2.jpg",
+      "possible_answers": ["A", "B", "C", "D"],
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which chemical group is most likely to be responsible for an organic molecule behaving as a base?",
+      "possible_answers": ["phosphate", "carbonyl", "hydroxyl", "amino"],
+      "correct_answer": "amino"
+    },
+    {
+      "question": "The figure shows the structures of glucose and fructose. These two molecules differ in the ________.",
+      "image": "carbs.jpg",
+      "possible_answers": [
+        "number of carbon, hydrogen, and oxygen atoms",
+        "number of oxygen atoms joined to carbon atoms by double covalent bonds",
+        "arrangement of carbon, hydrogen, and oxygen atoms",
+        "types of carbon, hydrogen, and oxygen atoms"
+      ],
+      "correct_answer": "arrangement of carbon, hydrogen, and oxygen atoms"
+    },
+    {
+      "question": "The complexity and variety of organic molecules is due to ________.",
+      "possible_answers": [
+        "their interaction with water",
+        "the chemical versatility of carbon atoms",
+        "the diverse bonding patterns of nitrogen",
+        "the variety of rare elements in organic molecules"
+      ],
+      "correct_answer": "the chemical versatility of carbon atoms"
+    },
+    {
+      "question": "Which molecule shown is a thiol?",
+      "image": "GROUP5.jpg",
+      "possible_answers": ["A", "B", "C", "D"],
+      "correct_answer": "B"
+    },
+    {
+      "question": "The two molecules shown in the figures are best described as ________.",
+      "image": "isomers.jpg",
+      "possible_answers": ["cis-trans isomers", "chain length isomers", "enantiomers", "structural isomers"],
+      "correct_answer": "structural isomers"
+    },
+    {
+      "question": "Which molecule has at least one carbon atom attached to three different chemical groups?",
+      "image": "group4.jpg",
+      "possible_answers": ["A", "B", "D", "A and B"],
+      "correct_answer": "A"
+    },
+    {
+      "question": "The figure shows the structures of glucose and fructose. These two molecules are ________.",
+      "image": "carbs.jpg",
+      "possible_answers": ["structural isomers", "isotopes", "enantiomers", "cis-trans isomers"],
+      "correct_answer": "structural isomers"
+    },
+    {
+      "question": "What is the name of the functional group shown in the figure?",
+      "image": "group1.jpg",
+      "possible_answers": ["ketone", "carbonyl", "carboxyl", "aldehyde"],
+      "correct_answer": "carboxyl"
+    }
+  ]
+}
