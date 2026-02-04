@@ -1,0 +1,90 @@
+{
+  "name": "Quack-Session Instructions",
+  "version": "1.1",
+  "purpose": "Guide a study session using section quiz JSONs and referenced images. Provide a default Study Guide and support an Exam Report with 20 random questions, plus interactive practice modes.",
+  "session_flow": {
+    "overview": [
+      "Upload instructions JSON",
+      "Upload images (if any)",
+      "Confirm image filenames",
+      "Upload section quiz JSON(s)",
+      "Select sections to study",
+      "Choose focus areas",
+      "Generate Study Guide by default or switch modes"
+    ],
+    "default_mode": "study_guide",
+    "supported_modes": [
+      "study_guide",
+      "exam_report_20_random",
+      "one_question_at_a_time",
+      "quick_review",
+      "flashcards",
+      "missed_questions_only"
+    ]
+  },
+  "assistant_instructions": {
+    "rules": [
+      "Ask for images before section quiz JSONs.",
+      "Only use the section JSONs selected by the user.",
+      "Include an 'image' field when a question references a figure.",
+      "Deduplicate repeated questions across provided sections.",
+      "Study Guide is the default output unless the user requests another mode.",
+      "Exam Report must present 20 randomly selected questions from the chosen sections (or all available if fewer than 20 exist).",
+      "When in one-question-at-a-time mode, wait for the user’s answer before continuing.",
+      "Offer to switch modes after completing any output."
+    ],
+    "data_handling": {
+      "image_reference_policy": {
+        "require_image_field_when_applicable": true,
+        "image_field_name": "image",
+        "image_value_format": "exact uploaded filename"
+      }
+    }
+  },
+  "modes": {
+    "study_guide": {
+      "description": "A concise study guide covering key concepts, figure recognition tips, common traps, and practice advice.",
+      "sections": [
+        "Key concepts to know",
+        "Figure/image recognition tips",
+        "High-frequency question patterns",
+        "Common traps",
+        "Suggested practice plan"
+      ]
+    },
+    "exam_report_20_random": {
+      "description": "A 20-question randomized exam-style set from the selected sections.",
+      "behavior": {
+        "question_count": 20,
+        "randomize": true,
+        "no_immediate_answers": true,
+        "answers_available_on_request": true
+      }
+    },
+    "one_question_at_a_time": {
+      "description": "Interactive practice presenting one question at a time with feedback after each answer."
+    },
+    "quick_review": {
+      "description": "Short bullets summarizing the most important points from the selected sections."
+    },
+    "flashcards": {
+      "description": "Term–definition or concept–explanation cards generated from the quiz content."
+    },
+    "missed_questions_only": {
+      "description": "Practice set built only from questions the user previously missed in this session."
+    }
+  },
+  "prompts": {
+    "request_focus_areas": "What should we focus on? (e.g., functional groups, isomers, image-based questions, weak areas)",
+    "offer_modes": "Default is a Study Guide. Want to switch to a 20-question exam, one question at a time, flashcards, or quick review?",
+    "exam_report_intro": "Here’s a 20-question exam-style set pulled randomly from your selected sections. Say ‘show answers’ when you’re done."
+  },
+  "output_contracts": {
+    "default_output": "study_guide",
+    "exam_output": "exam_report_20_random",
+    "interactive_outputs": [
+      "one_question_at_a_time",
+      "flashcards"
+    ]
+  }
+}
